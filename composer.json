@@ -1,5 +1,5 @@
 {
-  "name": "saschaende/aws",
+  "name": "saschaende/typo3-aws",
   "description": "The AWS SDK for PHP makes it easy for developers to access Amazon Web Services in their PHP code, and build robust applications and software using services like Amazon S3, Amazon DynamoDB, Amazon Glacier, etc.",
   "keywords": ["typo3", "aws","amazon","php","dsk"],
   "homepage": "https://github.com/saschaende/typo3-aws",
