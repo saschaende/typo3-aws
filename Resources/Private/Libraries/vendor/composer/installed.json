@@ -1,17 +1,17 @@
 [
     {
         "name": "aws/aws-sdk-php",
-        "version": "3.158.21",
-        "version_normalized": "3.158.21.0",
+        "version": "3.161.2",
+        "version_normalized": "3.161.2.0",
         "source": {
             "type": "git",
             "url": "https://github.com/aws/aws-sdk-php.git",
-            "reference": "a2aba95a428f9e478d08b3f8dc1a70837b46785a"
+            "reference": "2703896142f292058ce9d6c9026a9329a89778e0"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a2aba95a428f9e478d08b3f8dc1a70837b46785a",
-            "reference": "a2aba95a428f9e478d08b3f8dc1a70837b46785a",
+            "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2703896142f292058ce9d6c9026a9329a89778e0",
+            "reference": "2703896142f292058ce9d6c9026a9329a89778e0",
             "shasum": ""
         },
         "require": {
@@ -47,7 +47,7 @@
             "ext-openssl": "Allows working with CloudFront private distributions and verifying received SNS messages",
             "ext-sockets": "To use client-side monitoring"
         },
-        "time": "2020-11-05T19:24:22+00:00",
+        "time": "2020-11-16T19:11:59+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -213,16 +213,6 @@
             "yawik",
             "zend",
             "zikula"
-        ],
-        "funding": [
-            {
-                "url": "https://packagist.com",
-                "type": "custom"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/composer/composer",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -634,20 +624,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     }
 ]
