@@ -1,7 +1,5 @@
-# TYPO3 aws
+# Abandoned
 
-The AWS SDK for PHP makes it easy for developers to access Amazon Web Services in their PHP code, and build robust applications and software using services like Amazon S3, Amazon DynamoDB, Amazon Glacier, etc.
+I don't work with TYPO3 anymore and accordingly I don't develop TYPO3 extensions anymore. I use Laravel for my projects now.
 
-* TER: https://extensions.typo3.org/extension/aws/
-* Packagist: https://packagist.org/packages/saschaende/typo3-aws
-    * ```composer require saschaende/typo3-aws```
+Sorry! ;)
